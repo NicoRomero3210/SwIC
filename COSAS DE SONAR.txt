@@ -1,0 +1,5 @@
+mañana:
+inegrar sonarcloud con mi proyecto de mierda
+volver a meter todo en travis y la bosta de heroku para cambiar el nombre del proyecto
+
+FALTA EL TOKEN NOMAS
