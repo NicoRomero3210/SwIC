@@ -1,8 +1,8 @@
 var assert = require('assert');
 var request = require('supertest');
-var server = require('../index.js');
+var server = require('./index.js');
 var request = request("http://localhost:4000");
-var suma = require('../routes/suma.js');
+var suma = require('./routes/suma.js');
 var chai = require('chai');
 var assert2 = chai.assert;
 
