@@ -19,4 +19,4 @@ deploy:
 addons:
   sonarcloud: true
 script:
-  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=nicoromero3210-github -Dsonar.projectKey=SwIC -Dsonar.sources='./src' -X
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=nicoromero3210-github -Dsonar.projectKey=NicoRomero3210_SwIC -Dsonar.sources='./src' -X
